@@ -1,3 +1,3 @@
 # Sercaltec
 
-Versão inicial de site desenvolvido para um cliente
+Versão inicial de site com fins estudantis desenvolvido para um cliente
